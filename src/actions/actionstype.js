@@ -1,0 +1,3 @@
+export const GETCONTACTS = "GETCONTACTS;"
+export const GETPOSTS = "GETPOSTS;"
+export const GETCOMMENTS = "GETCOMMENTS;"
